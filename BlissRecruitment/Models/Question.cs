@@ -16,5 +16,5 @@ namespace Bliss.Models
         public DateTime published_at { get; set; }
         public virtual List<Choice> Choices { get; set; }
         
-    }
+    };
 }
