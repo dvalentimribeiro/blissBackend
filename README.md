@@ -8,7 +8,7 @@ There is a support document written in Portuguese. Report.docx
 
 ## Development server
 
-Using "Run" option. Database and data is generated automatically . Testing web api can done thorught Postman https://www.getpostman.com/  
+In Visual studio, please using "Run" option to deploy server (debug or release. Database and data is generated automatically . Testing web api can done thorught Postman https://www.getpostman.com/  
 
 ## Code scaffolding
 
