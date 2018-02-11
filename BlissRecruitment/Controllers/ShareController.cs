@@ -21,7 +21,7 @@ namespace Bliss.Controllers
                 return BadRequest(ModelState);
             }
 
-            var destinationEmail = share.destination_email;
+            var destinationEmail = share.destination_email; 
             var contentUrl = share.content_url;
 
             //TODO: Send an email to user
