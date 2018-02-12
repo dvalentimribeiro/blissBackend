@@ -6,9 +6,10 @@ using System.Web;
 
 namespace Bliss.ViewModels
 {
-    public class ViewModelShare
+    public class DtoShare
     {
         [Required]
+        [EmailAddress(ErrorMessage = "Not a valid email")]
         public string destination_email { get; set; }
         [Required]
         public string content_url { get; set; }

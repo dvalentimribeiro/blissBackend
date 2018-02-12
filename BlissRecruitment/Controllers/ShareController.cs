@@ -12,9 +12,9 @@ namespace Bliss.Controllers
     public class ShareController : ApiController
     {
 
-        //Get data from query string
+         //Get data from query string
         // POST: api/Share?{destination_email}&{content_url}
-        public async Task<IHttpActionResult> Post([FromUri]ViewModelShare share)
+        public async Task<IHttpActionResult> Post([FromUri]DtoShare share)
         {
             if (!ModelState.IsValid)
             {
@@ -25,7 +25,7 @@ namespace Bliss.Controllers
             var contentUrl = share.content_url;
 
             //TODO: Send an email to user
-            return Ok();
+            return Ok("Content is share");
         }
     }
 }
