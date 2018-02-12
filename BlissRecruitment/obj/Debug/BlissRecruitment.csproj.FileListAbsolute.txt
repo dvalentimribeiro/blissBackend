@@ -42,4 +42,3 @@ c:\users\daniel.ribeiro\documents\visual studio 2015\Projects\BlissRecruitment\B
 c:\users\daniel.ribeiro\documents\visual studio 2015\Projects\BlissRecruitment\BlissRecruitment\bin\System.Web.Http.WebHost.xml
 c:\users\daniel.ribeiro\documents\visual studio 2015\Projects\BlissRecruitment\BlissRecruitment\obj\Debug\BlissRecruitment.dll
 c:\users\daniel.ribeiro\documents\visual studio 2015\Projects\BlissRecruitment\BlissRecruitment\obj\Debug\BlissRecruitment.pdb
-c:\users\daniel.ribeiro\documents\visual studio 2015\Projects\BlissRecruitment\BlissRecruitment\obj\Debug\BlissRecruitment.csprojResolveAssemblyReference.cache
